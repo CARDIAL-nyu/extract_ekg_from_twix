@@ -1,4 +1,4 @@
-FROM tsphan/mri_tools:ismrmrd
+FROM cardialnyu/twix_to_ismrmrd
 
 LABEL maintainer="Timothy S. Phan <timothy.s.phan@gmail.com>"
 
