@@ -12,6 +12,7 @@ This tool will extract EKG waveforms from all Siemens twix files in the current 
 2. Change into the directory that you just cloned and copy all your `*.dat` twix files into here:
 	```bash
 		cd extract_ekg_from_twix
+		# copy the *.dat twix files here
 	```
 
 3. Run the `do_extraction.sh` script:
